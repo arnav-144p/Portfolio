@@ -14,6 +14,6 @@ The personal portfolio website showcases my skills, projects, and experiences as
 - Skills: Lists the programming languages, frameworks, and tools I am proficient in.
 - Contact: Offers various ways to get in touch with me, such as through email, social media, or a contact form.
 
-- ![image](https://github.com/user-attachments/assets/c6dfc3bc-9a24-4670-8921-2eac6ac81c05)
+![image](https://github.com/user-attachments/assets/fa4b5bde-ed04-4f61-85c8-59265183ce6e)
 
 
